@@ -18,8 +18,8 @@
 <img align="left" alt="Keshav's instagram" width="22px" src="https://user-images.githubusercontent.com/89010692/206869281-c195ba46-0000-41fc-b70f-5fd04752688a.png"/>
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/keshav_regmi/" target="_blank">
-<img align="left" alt="Suraj's geeksforgeeks" width="22px" src="https://user-images.githubusercontent.com/89010692/206869397-6ee318c3-adca-4509-9c90-646972c6d845.png"/>
+<a href="https://leetcode.com/saunksu/" target="_blank">
+<img align="left" alt="Keshav's geeksforgeeks" width="24px" src="https://handwiki.org/wiki/images/6/6c/Leetcode.svg"/>
 </a>
 <br>
 <br>
@@ -44,7 +44,7 @@
 </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  </p>
 
-- 💼 any freelance work? do reach, [email](mailto:keshavregmi70@gmail.com) :)
+- 💼 any freelance work? do reach, <a href="mailto:mailto:keshavregmi70@gmail.com">email</a> :)
 - 💬 ask me about anything, i am happy to help;
   <br/>
   <br />
