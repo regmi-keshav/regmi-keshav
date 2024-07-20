@@ -7,7 +7,7 @@
 
 </p>
 <a href="https://www.linkedin.com/in/keshav-regmi/" target="_blank">
-<img align="left" alt="Keshav's LinkedIN" width="22px" src="https://i.stack.imgur.com/gVE0j.png"/>
+<img align="left" alt="Keshav's LinkedIN" width="22px" src="https://i.sstatic.net/gVE0j.png"/>
 </a>
 
 <a href="https://twitter.com/home" target="_blank">
