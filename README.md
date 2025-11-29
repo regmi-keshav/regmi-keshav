@@ -1,4 +1,4 @@
-<h2>                             < KESHAV REGMI/></h2>
+<h2> < KESHAV REGMI/></h2>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -19,9 +19,9 @@
 </a>
 
 <a href="https://leetcode.com/saunksu/" target="_blank">
-<img align="left" alt="Keshav's geeksforgeeks" width="24px" src="https://handwiki.org/wiki/images/6/6c/Leetcode.svg"/>
+<img align="left" alt="Keshav's Leetcode profile" width="24px" src="https://res.cloudinary.com/dxtuzehsl/image/upload/Leetcode_htjxoa.svg"/>
 </a>
-<br>
+
 <br>
 <br>
 - 👋 Hi, I’m @keshav-regmi A geek, passionate to learn and try on new technology.<br>
@@ -48,10 +48,10 @@
 - 💬 ask me about anything, i am happy to help;
   <br/>
   <br />
-  <img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="centre" alt="GIF" src="https://res.cloudinary.com/dxtuzehsl/image/upload/code_apv8av.gif?raw=true" width="500" height="320" />
 
 <br />
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regmi-keshav&layout=compact&hide=css,html)
 ![regmi-keshav github stats](https://github-readme-stats.vercel.app/api?username=regmi-keshav&count_private=true&show_icons=true&theme=onedark)
-<hr>
+-->
